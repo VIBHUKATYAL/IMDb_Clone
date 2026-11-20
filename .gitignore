@@ -30,3 +30,8 @@ Thumbs.db
 .vscode/
 .idea/
 *.log
+
+# Internal documentation & prompts
+chat.md
+Extra/
+extra/
