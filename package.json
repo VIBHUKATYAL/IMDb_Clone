@@ -10,6 +10,7 @@
     "server": "tsx watch server/src/index.ts",
     "client": "npm --prefix client run dev",
     "dev": "concurrently -n \"db,server,client\" -c \"magenta,blue,green\" \"npm run db:start\" \"npm run server\" \"npm run client\"",
+    "sync:tmdb": "tsx scripts/sync-tmdb.ts",
     "build:client": "npm --prefix client run build",
     "build:server": "tsc -p server/tsconfig.json"
   },
