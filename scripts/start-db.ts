@@ -1,5 +1,6 @@
 import path from 'path';
 import net from 'net';
+import fs from 'fs';
 import pg from 'pg';
 // @ts-ignore
 import EmbeddedPostgresMod from 'embedded-postgres';
@@ -81,7 +82,13 @@ async function main() {
   });
 
   try {
-    await embeddedPg.initialise();
+    const isInitialized = fs.existsSync(path.join(PG_DATA_DIR, 'PG_VERSION'));
+    if (!isInitialized) {
+      console.log(`[Database] Initializing cluster in ${PG_DATA_DIR}...`);
+      await embeddedPg.initialise();
+    } else {
+      console.log(`[Database] Cluster already initialized in ${PG_DATA_DIR}. Skipping initdb.`);
+    }
     await embeddedPg.start();
     console.log(`[Database] Embedded PostgreSQL started successfully on port ${PORT}.`);
 
