@@ -21,7 +21,13 @@ export const LoginPage: React.FC = () => {
       await login(email, password);
       navigate('/');
     } catch (err: any) {
-      setError(err?.response?.data?.error || 'Failed to sign in. Please verify your credentials.');
+      if (err?.response?.data?.error) {
+        setError(err.response.data.error);
+      } else if (!err.response) {
+        setError('Cannot connect to backend server at http://localhost:5000. Make sure the server is running.');
+      } else {
+        setError('Failed to sign in. Please verify your credentials.');
+      }
     } finally {
       setLoading(false);
     }
