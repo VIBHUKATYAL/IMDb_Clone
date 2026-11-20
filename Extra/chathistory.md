@@ -149,3 +149,13 @@ Or individually:
   - Selected Matches: *Inception* (95%), *The Matrix* (94%), *Nope* (90%).
   - Real Model Rationale: *"Inception blends sci‑fi concepts with a mind‑bending heist and a shocking plot twist."*
 
+---
+
+## 8. GitHub Repository
+
+- **Remote URL**: `https://github.com/VIBHUKATYAL/IMDb_Clone.git`
+- **Branch**: `main`
+- **Commit**: `105b4a0` — *"Initial commit: CinePulse full-stack IMDb clone with AI Mood Mode and Personal Match Score"*
+- **Pushed Status**: Successfully pushed and up-to-date with `origin/main`.
+
+
