@@ -1,0 +1,5989 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "posterUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1994-09-23T00:00:00.000Z",
+    "runtime": 142,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 9.3,
+    "popularity": 98.5,
+    "voteCount": 2800000,
+    "trailerUrl": "https://www.youtube.com/watch?v=PLl99DlL6b4",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "directors": [
+      "Frank Darabont"
+    ],
+    "cast": [
+      {
+        "name": "Tim Robbins",
+        "character": "Andy Dufresne"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Ellis Boyd 'Red' Redding"
+      },
+      {
+        "name": "Bob Gunton",
+        "character": "Warden Norton"
+      }
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1972-03-24T00:00:00.000Z",
+    "runtime": 175,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 9.2,
+    "popularity": 96.2,
+    "voteCount": 2000000,
+    "trailerUrl": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      {
+        "name": "Marlon Brando",
+        "character": "Don Vito Corleone"
+      },
+      {
+        "name": "Al Pacino",
+        "character": "Michael Corleone"
+      },
+      {
+        "name": "James Caan",
+        "character": "Sonny Corleone"
+      }
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on Gotham, Batman must accept one of the greatest tests to fight injustice.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2008-07-18T00:00:00.000Z",
+    "runtime": 152,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 9,
+    "popularity": 99.4,
+    "voteCount": 2900000,
+    "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Heath Ledger",
+        "character": "Joker"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "character": "Harvey Dent"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Jim Gordon"
+      }
+    ]
+  },
+  {
+    "title": "The Godfather Part II",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son Michael expands the family crime syndicate.",
+    "posterUrl": "https://images.unsplash.com/photo-1533488765986-dfa2a9939acd?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1974-12-20T00:00:00.000Z",
+    "runtime": 202,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 9,
+    "popularity": 93.1,
+    "voteCount": 1400000,
+    "trailerUrl": "https://www.youtube.com/watch?v=9O1Iy9od7-A",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Michael Corleone"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "Vito Corleone"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Tom Hagen"
+      }
+    ]
+  },
+  {
+    "title": "12 Angry Men",
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence.",
+    "posterUrl": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1453733197781-704fa5988299?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1957-04-10T00:00:00.000Z",
+    "runtime": 96,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 9,
+    "popularity": 91,
+    "voteCount": 850000,
+    "trailerUrl": "https://www.youtube.com/watch?v=_13J_9B5jEk",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "cast": [
+      {
+        "name": "Henry Fonda",
+        "character": "Juror 8"
+      },
+      {
+        "name": "Lee J. Cobb",
+        "character": "Juror 3"
+      },
+      {
+        "name": "Martin Balsam",
+        "character": "Juror 1"
+      }
+    ]
+  },
+  {
+    "title": "Schindler's List",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution.",
+    "posterUrl": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1993-12-15T00:00:00.000Z",
+    "runtime": 195,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 9,
+    "popularity": 92.4,
+    "voteCount": 1450000,
+    "trailerUrl": "https://www.youtube.com/watch?v=gG22XNhtnoY",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      {
+        "name": "Liam Neeson",
+        "character": "Oskar Schindler"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Itzhak Stern"
+      },
+      {
+        "name": "Ralph Fiennes",
+        "character": "Amon Goeth"
+      }
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2003-12-17T00:00:00.000Z",
+    "runtime": 201,
+    "language": "English",
+    "country": "New Zealand",
+    "imdbRating": 9,
+    "popularity": 97.8,
+    "voteCount": 1980000,
+    "trailerUrl": "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "cast": [
+      {
+        "name": "Elijah Wood",
+        "character": "Frodo Baggins"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "character": "Aragorn"
+      },
+      {
+        "name": "Ian McKellen",
+        "character": "Gandalf"
+      }
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1994-10-14T00:00:00.000Z",
+    "runtime": 154,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.9,
+    "popularity": 95.8,
+    "voteCount": 2200000,
+    "trailerUrl": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      {
+        "name": "John Travolta",
+        "character": "Vincent Vega"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Jules Winnfield"
+      },
+      {
+        "name": "Uma Thurman",
+        "character": "Mia Wallace"
+      }
+    ]
+  },
+  {
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "runtime": 148,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.8,
+    "popularity": 98.9,
+    "voteCount": 2500000,
+    "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Dom Cobb"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "character": "Arthur"
+      },
+      {
+        "name": "Elliot Page",
+        "character": "Ariadne"
+      }
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "posterUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1999-10-15T00:00:00.000Z",
+    "runtime": 139,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.8,
+    "popularity": 96,
+    "voteCount": 2300000,
+    "trailerUrl": "https://www.youtube.com/watch?v=qtRKdV9ei40",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Tyler Durden"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "The Narrator"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Marla Singer"
+      }
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75.",
+    "posterUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1994-07-06T00:00:00.000Z",
+    "runtime": 142,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.8,
+    "popularity": 97.1,
+    "voteCount": 2250000,
+    "trailerUrl": "https://www.youtube.com/watch?v=bLvqoHBpt48",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Forrest Gump"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Jenny Curran"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Lt. Dan Taylor"
+      }
+    ]
+  },
+  {
+    "title": "The Matrix",
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "posterUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1999-03-31T00:00:00.000Z",
+    "runtime": 136,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.7,
+    "popularity": 97.5,
+    "voteCount": 2050000,
+    "trailerUrl": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "cast": [
+      {
+        "name": "Keanu Reeves",
+        "character": "Neo"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Morpheus"
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "character": "Trinity"
+      }
+    ]
+  },
+  {
+    "title": "Goodfellas",
+    "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+    "posterUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1990-09-12T00:00:00.000Z",
+    "runtime": 145,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.7,
+    "popularity": 94.2,
+    "voteCount": 1250000,
+    "trailerUrl": "https://www.youtube.com/watch?v=qo5jJpHtI1Y",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "James Conway"
+      },
+      {
+        "name": "Ray Liotta",
+        "character": "Henry Hill"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Tommy DeVito"
+      }
+    ]
+  },
+  {
+    "title": "Interstellar",
+    "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft along with a team of researchers to find a new planet for humans.",
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2014-11-07T00:00:00.000Z",
+    "runtime": 169,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.7,
+    "popularity": 99.1,
+    "voteCount": 2100000,
+    "trailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Matthew McConaughey",
+        "character": "Cooper"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Brand"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Murph"
+      }
+    ]
+  },
+  {
+    "title": "Spirited Away",
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, where humans are changed into beasts.",
+    "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2001-07-20T00:00:00.000Z",
+    "runtime": 125,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 8.6,
+    "popularity": 91.3,
+    "voteCount": 840000,
+    "trailerUrl": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      {
+        "name": "Rumi Hiiragi",
+        "character": "Chihiro (voice)"
+      },
+      {
+        "name": "Miyu Irino",
+        "character": "Haku (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Parasite",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-05-30T00:00:00.000Z",
+    "runtime": 132,
+    "language": "Korean",
+    "country": "South Korea",
+    "imdbRating": 8.5,
+    "popularity": 94.7,
+    "voteCount": 950000,
+    "trailerUrl": "https://www.youtube.com/watch?v=5xH0RzeSojI",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "directors": [
+      "Bong Joon-ho"
+    ],
+    "cast": [
+      {
+        "name": "Song Kang-ho",
+        "character": "Kim Ki-taek"
+      },
+      {
+        "name": "Lee Sun-kyun",
+        "character": "Park Dong-ik"
+      }
+    ]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.",
+    "posterUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1991-02-14T00:00:00.000Z",
+    "runtime": 118,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "popularity": 93.8,
+    "voteCount": 1540000,
+    "trailerUrl": "https://www.youtube.com/watch?v=W6Mm8Sbe__o",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Jonathan Demme"
+    ],
+    "cast": [
+      {
+        "name": "Jodie Foster",
+        "character": "Clarice Starling"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "character": "Dr. Hannibal Lecter"
+      }
+    ]
+  },
+  {
+    "title": "Saving Private Ryan",
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "posterUrl": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1998-07-24T00:00:00.000Z",
+    "runtime": 169,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "popularity": 94.6,
+    "voteCount": 1490000,
+    "trailerUrl": "https://www.youtube.com/watch?v=zwhP5b4tD6g",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Captain Miller"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Private Ryan"
+      }
+    ]
+  },
+  {
+    "title": "City of God",
+    "description": "In the slums of Rio, two kids' paths diverge; one struggles to become a photographer and the other a kingpin.",
+    "posterUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2002-08-30T00:00:00.000Z",
+    "runtime": 130,
+    "language": "Portuguese",
+    "country": "Brazil",
+    "imdbRating": 8.6,
+    "popularity": 90.5,
+    "voteCount": 820000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dcUOO4Itgmw",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Fernando Meirelles",
+      "Katia Lund"
+    ],
+    "cast": [
+      {
+        "name": "Alexandre Rodrigues",
+        "character": "Buscapé"
+      },
+      {
+        "name": "Leandro Firmino",
+        "character": "Zé Pequeno"
+      }
+    ]
+  },
+  {
+    "title": "Life Is Beautiful",
+    "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1997-12-20T00:00:00.000Z",
+    "runtime": 116,
+    "language": "Italian",
+    "country": "Italy",
+    "imdbRating": 8.6,
+    "popularity": 90.1,
+    "voteCount": 770000,
+    "trailerUrl": "https://www.youtube.com/watch?v=pAYEQP8gx3w",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Roberto Benigni"
+    ],
+    "cast": [
+      {
+        "name": "Roberto Benigni",
+        "character": "Guido"
+      },
+      {
+        "name": "Nicoletta Braschi",
+        "character": "Dora"
+      }
+    ]
+  },
+  {
+    "title": "The Green Mile",
+    "description": "A tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments and other bizarre miracles.",
+    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1999-12-10T00:00:00.000Z",
+    "runtime": 189,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "popularity": 94,
+    "voteCount": 1400000,
+    "trailerUrl": "https://www.youtube.com/watch?v=Ki4haFrqSrw",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Frank Darabont"
+    ],
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Paul Edgecomb"
+      },
+      {
+        "name": "Michael Clarke Duncan",
+        "character": "John Coffey"
+      }
+    ]
+  },
+  {
+    "title": "Se7en",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "posterUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1995-09-22T00:00:00.000Z",
+    "runtime": 127,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "popularity": 95.2,
+    "voteCount": 1780000,
+    "trailerUrl": "https://www.youtube.com/watch?v=znmZoVkCjpI",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      {
+        "name": "Morgan Freeman",
+        "character": "Detective Somerset"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Detective Mills"
+      },
+      {
+        "name": "Kevin Spacey",
+        "character": "John Doe"
+      }
+    ]
+  },
+  {
+    "title": "Gladiator",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "posterUrl": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2000-05-05T00:00:00.000Z",
+    "runtime": 155,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 96.3,
+    "voteCount": 1620000,
+    "trailerUrl": "https://www.youtube.com/watch?v=owK1qxDselE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "character": "Maximus"
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Commodus"
+      }
+    ]
+  },
+  {
+    "title": "The Departed",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2006-10-06T00:00:00.000Z",
+    "runtime": 151,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 94.9,
+    "voteCount": 1430000,
+    "trailerUrl": "https://www.youtube.com/watch?v=iojhqm0JTW4",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Billy Costigan"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Colin Sullivan"
+      },
+      {
+        "name": "Jack Nicholson",
+        "character": "Frank Costello"
+      }
+    ]
+  },
+  {
+    "title": "Whiplash",
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "posterUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2014-10-15T00:00:00.000Z",
+    "runtime": 106,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 93.6,
+    "voteCount": 990000,
+    "trailerUrl": "https://www.youtube.com/watch?v=7d_jQycdQGo",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "cast": [
+      {
+        "name": "Miles Teller",
+        "character": "Andrew Neiman"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Terence Fletcher"
+      }
+    ]
+  },
+  {
+    "title": "The Prestige",
+    "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "posterUrl": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2006-10-20T00:00:00.000Z",
+    "runtime": 130,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 94.1,
+    "voteCount": 1450000,
+    "trailerUrl": "https://www.youtube.com/watch?v=o4gHCmTQDVI",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Alfred Borden"
+      },
+      {
+        "name": "Hugh Jackman",
+        "character": "Robert Angier"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Olivia Wenscombe"
+      }
+    ]
+  },
+  {
+    "title": "Oppenheimer",
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II.",
+    "posterUrl": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-07-21T00:00:00.000Z",
+    "runtime": 180,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.9,
+    "popularity": 97.4,
+    "voteCount": 780000,
+    "trailerUrl": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Cillian Murphy",
+        "character": "J. Robert Oppenheimer"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Lewis Strauss"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Kitty Oppenheimer"
+      }
+    ]
+  },
+  {
+    "title": "Dune: Part Two",
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "posterUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2024-03-01T00:00:00.000Z",
+    "runtime": 166,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "popularity": 99.8,
+    "voteCount": 520000,
+    "trailerUrl": "https://www.youtube.com/watch?v=Way9Dexny3w",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      {
+        "name": "Timothée Chalamet",
+        "character": "Paul Atreides"
+      },
+      {
+        "name": "Zendaya",
+        "character": "Chani"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "character": "Lady Jessica"
+      }
+    ]
+  },
+  {
+    "title": "Django Unchained",
+    "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "posterUrl": "https://images.unsplash.com/photo-1533488765986-dfa2a9939acd?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2012-12-25T00:00:00.000Z",
+    "runtime": 165,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 96,
+    "voteCount": 1680000,
+    "trailerUrl": "https://www.youtube.com/watch?v=_iH0UBYDI4g",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      {
+        "name": "Jamie Foxx",
+        "character": "Django"
+      },
+      {
+        "name": "Christoph Waltz",
+        "character": "Dr. King Schultz"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Calvin Candie"
+      }
+    ]
+  },
+  {
+    "title": "WALL-E",
+    "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "posterUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2008-06-27T00:00:00.000Z",
+    "runtime": 98,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 92,
+    "voteCount": 1190000,
+    "trailerUrl": "https://www.youtube.com/watch?v=CZ1CATNbXg0",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      {
+        "name": "Ben Burtt",
+        "character": "WALL-E (voice)"
+      },
+      {
+        "name": "Elissa Knight",
+        "character": "EVE (voice)"
+      }
+    ]
+  },
+  {
+    "title": "The Shining",
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "posterUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1980-05-23T00:00:00.000Z",
+    "runtime": 146,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 93.5,
+    "voteCount": 1120000,
+    "trailerUrl": "https://www.youtube.com/watch?v=S014oGZiSdI",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      {
+        "name": "Jack Nicholson",
+        "character": "Jack Torrance"
+      },
+      {
+        "name": "Shelley Duvall",
+        "character": "Wendy Torrance"
+      }
+    ]
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "Teen Miles Morales becomes the new Spider-Man and joins other Spider-Heroes from parallel universes to stop a threat to all reality.",
+    "posterUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-12-14T00:00:00.000Z",
+    "runtime": 117,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 96.7,
+    "voteCount": 680000,
+    "trailerUrl": "https://www.youtube.com/watch?v=tg52up16eq0",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey"
+    ],
+    "cast": [
+      {
+        "name": "Shameik Moore",
+        "character": "Miles Morales (voice)"
+      },
+      {
+        "name": "Jake Johnson",
+        "character": "Peter B. Parker (voice)"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "character": "Gwen Stacy (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Coco",
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2017-11-22T00:00:00.000Z",
+    "runtime": 105,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 92.8,
+    "voteCount": 590000,
+    "trailerUrl": "https://www.youtube.com/watch?v=xlnPHQ3TLX8",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      {
+        "name": "Anthony Gonzalez",
+        "character": "Miguel (voice)"
+      },
+      {
+        "name": "Gael García Bernal",
+        "character": "Héctor (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Oldboy",
+    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "posterUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2003-11-21T00:00:00.000Z",
+    "runtime": 120,
+    "language": "Korean",
+    "country": "South Korea",
+    "imdbRating": 8.4,
+    "popularity": 91.2,
+    "voteCount": 630000,
+    "trailerUrl": "https://www.youtube.com/watch?v=2HkjrJ6IK5E",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Park Chan-wook"
+    ],
+    "cast": [
+      {
+        "name": "Choi Min-sik",
+        "character": "Oh Dae-su"
+      },
+      {
+        "name": "Yoo Ji-tae",
+        "character": "Lee Woo-jin"
+      }
+    ]
+  },
+  {
+    "title": "Inglourious Basterds",
+    "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "posterUrl": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2009-08-21T00:00:00.000Z",
+    "runtime": 153,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 95.4,
+    "voteCount": 1590000,
+    "trailerUrl": "https://www.youtube.com/watch?v=KnrRy6kSFF0",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Lt. Aldo Raine"
+      },
+      {
+        "name": "Christoph Waltz",
+        "character": "Col. Hans Landa"
+      },
+      {
+        "name": "Mélanie Laurent",
+        "character": "Shosanna"
+      }
+    ]
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2004-03-19T00:00:00.000Z",
+    "runtime": 108,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 92.7,
+    "voteCount": 1080000,
+    "trailerUrl": "https://www.youtube.com/watch?v=07-QBnEkgXU",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Michel Gondry"
+    ],
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Joel Barish"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Clementine Kruczynski"
+      }
+    ]
+  },
+  {
+    "title": "Amélie",
+    "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2001-04-25T00:00:00.000Z",
+    "runtime": 122,
+    "language": "French",
+    "country": "France",
+    "imdbRating": 8.3,
+    "popularity": 89.9,
+    "voteCount": 790000,
+    "trailerUrl": "https://www.youtube.com/watch?v=HUECWi5pX7o",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "directors": [
+      "Jean-Pierre Jeunet"
+    ],
+    "cast": [
+      {
+        "name": "Audrey Tautou",
+        "character": "Amélie Poulain"
+      },
+      {
+        "name": "Mathieu Kassovitz",
+        "character": "Nino Quincampoix"
+      }
+    ]
+  },
+  {
+    "title": "Snatch",
+    "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "posterUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2000-08-23T00:00:00.000Z",
+    "runtime": 102,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 8.2,
+    "popularity": 91.5,
+    "voteCount": 900000,
+    "trailerUrl": "https://www.youtube.com/watch?v=9Jar2XkBboo",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Turkish"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Mickey O'Neil"
+      },
+      {
+        "name": "Benicio Del Toro",
+        "character": "Franky Four Fingers"
+      }
+    ]
+  },
+  {
+    "title": "Toy Story",
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1995-11-22T00:00:00.000Z",
+    "runtime": 81,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 93,
+    "voteCount": 1050000,
+    "trailerUrl": "https://www.youtube.com/watch?v=v-PjgYDrg70",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Woody (voice)"
+      },
+      {
+        "name": "Tim Allen",
+        "character": "Buzz Lightyear (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Up",
+    "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "posterUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2009-05-29T00:00:00.000Z",
+    "runtime": 96,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 93.8,
+    "voteCount": 1100000,
+    "trailerUrl": "https://www.youtube.com/watch?v=ORFWdXl_zJ4",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "directors": [
+      "Pete Docter"
+    ],
+    "cast": [
+      {
+        "name": "Edward Asner",
+        "character": "Carl Fredricksen (voice)"
+      },
+      {
+        "name": "Jordan Nagai",
+        "character": "Russell (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Good Will Hunting",
+    "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "posterUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1997-12-05T00:00:00.000Z",
+    "runtime": 126,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 94,
+    "voteCount": 1080000,
+    "trailerUrl": "https://www.youtube.com/watch?v=ReIJ1224Fp4",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Gus Van Sant"
+    ],
+    "cast": [
+      {
+        "name": "Robin Williams",
+        "character": "Sean Maguire"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Will Hunting"
+      },
+      {
+        "name": "Ben Affleck",
+        "character": "Chuckie Sullivan"
+      }
+    ]
+  },
+  {
+    "title": "Heat",
+    "description": "A group of high-end professional thieves start to feel the LAPD on their heels when a heist goes sideways and a relentless detective takes the case.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1995-12-15T00:00:00.000Z",
+    "runtime": 170,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 92.5,
+    "voteCount": 730000,
+    "trailerUrl": "https://www.youtube.com/watch?v=2GfZl4UUS3A",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Michael Mann"
+    ],
+    "cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Lt. Vincent Hanna"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "Neil McCauley"
+      },
+      {
+        "name": "Val Kilmer",
+        "character": "Chris Shiherlis"
+      }
+    ]
+  },
+  {
+    "title": "Die Hard",
+    "description": "An NYPD officer tries to save his estranged wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1988-07-20T00:00:00.000Z",
+    "runtime": 132,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 93.1,
+    "voteCount": 920000,
+    "trailerUrl": "https://www.youtube.com/watch?v=jaJuw4kvAVw",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "directors": [
+      "John McTiernan"
+    ],
+    "cast": [
+      {
+        "name": "Bruce Willis",
+        "character": "John McClane"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Hans Gruber"
+      }
+    ]
+  },
+  {
+    "title": "1917",
+    "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "posterUrl": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-12-25T00:00:00.000Z",
+    "runtime": 119,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 8.2,
+    "popularity": 94.3,
+    "voteCount": 660000,
+    "trailerUrl": "https://www.youtube.com/watch?v=YqNYrYUiMfg",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Sam Mendes"
+    ],
+    "cast": [
+      {
+        "name": "George MacKay",
+        "character": "Lance Corporal Schofield"
+      },
+      {
+        "name": "Dean-Charles Chapman",
+        "character": "Lance Corporal Blake"
+      }
+    ]
+  },
+  {
+    "title": "Blade Runner 2049",
+    "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2017-10-06T00:00:00.000Z",
+    "runtime": 164,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8,
+    "popularity": 95.8,
+    "voteCount": 650000,
+    "trailerUrl": "https://www.youtube.com/watch?v=gCcx85zbxz4",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "K"
+      },
+      {
+        "name": "Harrison Ford",
+        "character": "Rick Deckard"
+      },
+      {
+        "name": "Ana de Armas",
+        "character": "Joi"
+      }
+    ]
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2015-05-15T00:00:00.000Z",
+    "runtime": 120,
+    "language": "English",
+    "country": "Australia",
+    "imdbRating": 8.1,
+    "popularity": 96.1,
+    "voteCount": 1100000,
+    "trailerUrl": "https://www.youtube.com/watch?v=hEJnMQG99mM",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "George Miller"
+    ],
+    "cast": [
+      {
+        "name": "Tom Hardy",
+        "character": "Max Rockatansky"
+      },
+      {
+        "name": "Charlize Theron",
+        "character": "Imperator Furiosa"
+      }
+    ]
+  },
+  {
+    "title": "The Truman Show",
+    "description": "An insurance salesman discovers his whole life is actually a reality TV show on air 24/7 since his birth.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1998-06-05T00:00:00.000Z",
+    "runtime": 103,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 93.4,
+    "voteCount": 1150000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dlnmQbPGuls",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Peter Weir"
+    ],
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Truman Burbank"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Christof"
+      }
+    ]
+  },
+  {
+    "title": "The Big Lebowski",
+    "description": "Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1998-03-06T00:00:00.000Z",
+    "runtime": 117,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 92.1,
+    "voteCount": 840000,
+    "trailerUrl": "https://www.youtube.com/watch?v=cd-go0oBF4Y",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "cast": [
+      {
+        "name": "Jeff Bridges",
+        "character": "The Dude"
+      },
+      {
+        "name": "John Goodman",
+        "character": "Walter Sobchak"
+      }
+    ]
+  },
+  {
+    "title": "Jurassic Park",
+    "description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "posterUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1993-06-11T00:00:00.000Z",
+    "runtime": 127,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 95,
+    "voteCount": 1080000,
+    "trailerUrl": "https://www.youtube.com/watch?v=lc0UehYemQA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      {
+        "name": "Sam Neill",
+        "character": "Alan Grant"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Ellie Sattler"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Ian Malcolm"
+      }
+    ]
+  },
+  {
+    "title": "Shutter Island",
+    "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+    "posterUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2010-02-19T00:00:00.000Z",
+    "runtime": 138,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 96.5,
+    "voteCount": 1450000,
+    "trailerUrl": "https://www.youtube.com/watch?v=5iaYLCiq5RM",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Teddy Daniels"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Chuck Aule"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Dr. Cawley"
+      }
+    ]
+  },
+  {
+    "title": "No Country for Old Men",
+    "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2007-11-21T00:00:00.000Z",
+    "runtime": 122,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 93.9,
+    "voteCount": 1050000,
+    "trailerUrl": "https://www.youtube.com/watch?v=38A__WT3-o0",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "cast": [
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Ed Tom Bell"
+      },
+      {
+        "name": "Javier Bardem",
+        "character": "Anton Chigurh"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Llewelyn Moss"
+      }
+    ]
+  },
+  {
+    "title": "There Will Be Blood",
+    "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "posterUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2007-12-26T00:00:00.000Z",
+    "runtime": 158,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 91.8,
+    "voteCount": 620000,
+    "trailerUrl": "https://www.youtube.com/watch?v=FeSLPELpMeM",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Paul Thomas Anderson"
+    ],
+    "cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Daniel Plainview"
+      },
+      {
+        "name": "Paul Dano",
+        "character": "Eli Sunday"
+      }
+    ]
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2014-03-28T00:00:00.000Z",
+    "runtime": 99,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 94.7,
+    "voteCount": 880000,
+    "trailerUrl": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      {
+        "name": "Ralph Fiennes",
+        "character": "M. Gustave"
+      },
+      {
+        "name": "Tony Revolori",
+        "character": "Zero Moustafa"
+      }
+    ]
+  },
+  {
+    "title": "Her",
+    "description": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "posterUrl": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2013-12-18T00:00:00.000Z",
+    "runtime": 126,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8,
+    "popularity": 92.5,
+    "voteCount": 710000,
+    "trailerUrl": "https://www.youtube.com/watch?v=ne6p6MfLBxc",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Spike Jonze"
+    ],
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Theodore"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Samantha (voice)"
+      },
+      {
+        "name": "Amy Adams",
+        "character": "Amy"
+      }
+    ]
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2013-12-25T00:00:00.000Z",
+    "runtime": 180,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 98.2,
+    "voteCount": 1570000,
+    "trailerUrl": "https://www.youtube.com/watch?v=iszwuX1AK6A",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Jordan Belfort"
+      },
+      {
+        "name": "Jonah Hill",
+        "character": "Donnie Azoff"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Naomi Lapaglia"
+      }
+    ]
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+    "posterUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2006-10-11T00:00:00.000Z",
+    "runtime": 118,
+    "language": "Spanish",
+    "country": "Spain",
+    "imdbRating": 8.2,
+    "popularity": 90.4,
+    "voteCount": 710000,
+    "trailerUrl": "https://www.youtube.com/watch?v=EqYiSlkvRuw",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "cast": [
+      {
+        "name": "Ivana Baquero",
+        "character": "Ofelia"
+      },
+      {
+        "name": "Sergi López",
+        "character": "Captain Vidal"
+      }
+    ]
+  },
+  {
+    "title": "The Sixth Sense",
+    "description": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "posterUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1999-08-06T00:00:00.000Z",
+    "runtime": 107,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 93.7,
+    "voteCount": 1020000,
+    "trailerUrl": "https://www.youtube.com/watch?v=VG9AGf66tXM",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "cast": [
+      {
+        "name": "Bruce Willis",
+        "character": "Malcolm Crowe"
+      },
+      {
+        "name": "Haley Joel Osment",
+        "character": "Cole Sear"
+      }
+    ]
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2003-10-10T00:00:00.000Z",
+    "runtime": 111,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 95.1,
+    "voteCount": 1200000,
+    "trailerUrl": "https://www.youtube.com/watch?v=7kSuas6mRpk",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      {
+        "name": "Uma Thurman",
+        "character": "The Bride"
+      },
+      {
+        "name": "Lucy Liu",
+        "character": "O-Ren Ishii"
+      }
+    ]
+  },
+  {
+    "title": "Gone Girl",
+    "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "posterUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2014-10-03T00:00:00.000Z",
+    "runtime": 149,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 94.6,
+    "voteCount": 1040000,
+    "trailerUrl": "https://www.youtube.com/watch?v=2-_-1nJf8Vg",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      {
+        "name": "Ben Affleck",
+        "character": "Nick Dunne"
+      },
+      {
+        "name": "Rosamund Pike",
+        "character": "Amy Dunne"
+      }
+    ]
+  },
+  {
+    "title": "Fargo",
+    "description": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Chief Marge Gunderson.",
+    "posterUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1996-03-08T00:00:00.000Z",
+    "runtime": 98,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 91,
+    "voteCount": 740000,
+    "trailerUrl": "https://www.youtube.com/watch?v=h2tY82z3xXU",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "cast": [
+      {
+        "name": "William H. Macy",
+        "character": "Jerry Lundegaard"
+      },
+      {
+        "name": "Frances McDormand",
+        "character": "Marge Gunderson"
+      }
+    ]
+  },
+  {
+    "title": "The Thing",
+    "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1982-06-25T00:00:00.000Z",
+    "runtime": 109,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 92.4,
+    "voteCount": 460000,
+    "trailerUrl": "https://www.youtube.com/watch?v=5ftmr17M-a4",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [
+      {
+        "name": "Kurt Russell",
+        "character": "R.J. MacReady"
+      },
+      {
+        "name": "Wilford Brimley",
+        "character": "Dr. Blair"
+      }
+    ]
+  },
+  {
+    "title": "Catch Me If You Can",
+    "description": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl Hanratty becomes obsessed with tracking him down.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2002-12-25T00:00:00.000Z",
+    "runtime": 141,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 96,
+    "voteCount": 1100000,
+    "trailerUrl": "https://www.youtube.com/watch?v=s-7pyIxz8Qg",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Frank Abagnale Jr."
+      },
+      {
+        "name": "Tom Hanks",
+        "character": "Carl Hanratty"
+      },
+      {
+        "name": "Christopher Walken",
+        "character": "Frank Abagnale Sr."
+      }
+    ]
+  },
+  {
+    "title": "Groundhog Day",
+    "description": "A narcissistic TV weatherman finds himself reliving the same day over and over again when he goes on location to the small town of Punxsutawney.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1993-02-12T00:00:00.000Z",
+    "runtime": 101,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8,
+    "popularity": 91.9,
+    "voteCount": 690000,
+    "trailerUrl": "https://www.youtube.com/watch?v=GncQtURdcE4",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "directors": [
+      "Harold Ramis"
+    ],
+    "cast": [
+      {
+        "name": "Bill Murray",
+        "character": "Phil Connors"
+      },
+      {
+        "name": "Andie MacDowell",
+        "character": "Rita Hanson"
+      }
+    ]
+  },
+  {
+    "title": "RRR",
+    "description": "A fearless revolutionary and an officer in the British force, who once shared a deep bond, decide to join forces and chart out an inspiring path of freedom against the despotic rulers.",
+    "posterUrl": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-03-24T00:00:00.000Z",
+    "runtime": 187,
+    "language": "Telugu",
+    "country": "India",
+    "imdbRating": 7.8,
+    "popularity": 95.3,
+    "voteCount": 180000,
+    "trailerUrl": "https://www.youtube.com/watch?v=NgBoMJy386M",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "directors": [
+      "S.S. Rajamouli"
+    ],
+    "cast": [
+      {
+        "name": "N.T. Rama Rao Jr.",
+        "character": "Komaram Bheem"
+      },
+      {
+        "name": "Ram Charan",
+        "character": "Alluri Sitarama Raju"
+      }
+    ]
+  },
+  {
+    "title": "Dune: Part One",
+    "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+    "posterUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2021-10-22T00:00:00.000Z",
+    "runtime": 155,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8,
+    "popularity": 97.2,
+    "voteCount": 810000,
+    "trailerUrl": "https://www.youtube.com/watch?v=8g18jFHCLXk",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      {
+        "name": "Timothée Chalamet",
+        "character": "Paul Atreides"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "character": "Lady Jessica"
+      },
+      {
+        "name": "Oscar Isaac",
+        "character": "Duke Leto Atreides"
+      }
+    ]
+  },
+  {
+    "title": "Barbie",
+    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-07-21T00:00:00.000Z",
+    "runtime": 114,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.8,
+    "popularity": 96,
+    "voteCount": 540000,
+    "trailerUrl": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "directors": [
+      "Greta Gerwig"
+    ],
+    "cast": [
+      {
+        "name": "Margot Robbie",
+        "character": "Barbie"
+      },
+      {
+        "name": "Ryan Gosling",
+        "character": "Ken"
+      }
+    ]
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-03-25T00:00:00.000Z",
+    "runtime": 139,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 94.2,
+    "voteCount": 520000,
+    "trailerUrl": "https://www.youtube.com/watch?v=wxN1T1uxQ2g",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Daniel Kwan",
+      "Daniel Scheinert"
+    ],
+    "cast": [
+      {
+        "name": "Michelle Yeoh",
+        "character": "Evelyn Wang"
+      },
+      {
+        "name": "Ke Huy Quan",
+        "character": "Waymond Wang"
+      },
+      {
+        "name": "Stephanie Hsu",
+        "character": "Joy Wang"
+      }
+    ]
+  },
+  {
+    "title": "Knives Out",
+    "description": "A detective investigates the death of the patriarch of an eccentric, combative family.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-11-27T00:00:00.000Z",
+    "runtime": 130,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.9,
+    "popularity": 95,
+    "voteCount": 650000,
+    "trailerUrl": "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "directors": [
+      "Rian Johnson"
+    ],
+    "cast": [
+      {
+        "name": "Daniel Craig",
+        "character": "Benoit Blanc"
+      },
+      {
+        "name": "Ana de Armas",
+        "character": "Marta Cabrera"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Ransom Drysdale"
+      }
+    ]
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+    "posterUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-06-02T00:00:00.000Z",
+    "runtime": 140,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "popularity": 98,
+    "voteCount": 410000,
+    "trailerUrl": "https://www.youtube.com/watch?v=cqGjhVJWtEg",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Joaquim Dos Santos",
+      "Kemp Powers"
+    ],
+    "cast": [
+      {
+        "name": "Shameik Moore",
+        "character": "Miles Morales (voice)"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "character": "Gwen Stacy (voice)"
+      },
+      {
+        "name": "Oscar Isaac",
+        "character": "Miguel O'Hara (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Superbad",
+    "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2007-08-17T00:00:00.000Z",
+    "runtime": 113,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.6,
+    "popularity": 91,
+    "voteCount": 650000,
+    "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+    "genres": [
+      "Comedy"
+    ],
+    "directors": [
+      "Greg Mottola"
+    ],
+    "cast": [
+      {
+        "name": "Jonah Hill",
+        "character": "Seth"
+      },
+      {
+        "name": "Michael Cera",
+        "character": "Evan"
+      },
+      {
+        "name": "Christopher Mintz-Plasse",
+        "character": "Fogell / McLovin"
+      }
+    ]
+  },
+  {
+    "title": "The Hangover",
+    "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+    "posterUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2009-06-05T00:00:00.000Z",
+    "runtime": 100,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.7,
+    "popularity": 92.5,
+    "voteCount": 850000,
+    "trailerUrl": "https://www.youtube.com/watch?v=tcdUhdOlz9M",
+    "genres": [
+      "Comedy"
+    ],
+    "directors": [
+      "Todd Phillips"
+    ],
+    "cast": [
+      {
+        "name": "Bradley Cooper",
+        "character": "Phil"
+      },
+      {
+        "name": "Ed Helms",
+        "character": "Stu"
+      },
+      {
+        "name": "Zach Galifianakis",
+        "character": "Alan"
+      }
+    ]
+  },
+  {
+    "title": "A Quiet Place",
+    "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+    "posterUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-04-06T00:00:00.000Z",
+    "runtime": 90,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.5,
+    "popularity": 93,
+    "voteCount": 600000,
+    "trailerUrl": "https://www.youtube.com/watch?v=WR7cc5t7tv8",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "John Krasinski"
+    ],
+    "cast": [
+      {
+        "name": "Emily Blunt",
+        "character": "Evelyn Abbott"
+      },
+      {
+        "name": "John Krasinski",
+        "character": "Lee Abbott"
+      }
+    ]
+  },
+  {
+    "title": "Alien",
+    "description": "The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1979-05-25T00:00:00.000Z",
+    "runtime": 117,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 8.5,
+    "popularity": 85,
+    "voteCount": 300000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      {
+        "name": "Sigourney Weaver",
+        "character": "Ripley"
+      },
+      {
+        "name": "Tom Skerritt",
+        "character": "Dallas"
+      }
+    ]
+  },
+  {
+    "title": "Aliens",
+    "description": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony.",
+    "posterUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1986-07-18T00:00:00.000Z",
+    "runtime": 137,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 85.9,
+    "voteCount": 327000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "cast": [
+      {
+        "name": "Sigourney Weaver",
+        "character": "Ripley"
+      },
+      {
+        "name": "Michael Biehn",
+        "character": "Corporal Hicks"
+      }
+    ]
+  },
+  {
+    "title": "Seven Samurai",
+    "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1954-04-26T00:00:00.000Z",
+    "runtime": 207,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 8.6,
+    "popularity": 86.8,
+    "voteCount": 354000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "cast": [
+      {
+        "name": "Toshiro Mifune",
+        "character": "Kikuchiyo"
+      },
+      {
+        "name": "Takashi Shimura",
+        "character": "Kambei"
+      }
+    ]
+  },
+  {
+    "title": "Cinema Paradiso",
+    "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the projectionist.",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1988-11-17T00:00:00.000Z",
+    "runtime": 155,
+    "language": "Italian",
+    "country": "Italy",
+    "imdbRating": 8.5,
+    "popularity": 87.7,
+    "voteCount": 381000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Giuseppe Tornatore"
+    ],
+    "cast": [
+      {
+        "name": "Philippe Noiret",
+        "character": "Alfredo"
+      },
+      {
+        "name": "Salvatore Cascio",
+        "character": "Salvatore"
+      }
+    ]
+  },
+  {
+    "title": "Rear Window",
+    "description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1954-09-01T00:00:00.000Z",
+    "runtime": 112,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 88.6,
+    "voteCount": 408000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      {
+        "name": "James Stewart",
+        "character": "L.B. Jefferies"
+      },
+      {
+        "name": "Grace Kelly",
+        "character": "Lisa Fremont"
+      }
+    ]
+  },
+  {
+    "title": "Casablanca",
+    "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "posterUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1942-11-26T00:00:00.000Z",
+    "runtime": 102,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 89.5,
+    "voteCount": 435000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "cast": [
+      {
+        "name": "Humphrey Bogart",
+        "character": "Rick Blaine"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "character": "Ilsa Lund"
+      }
+    ]
+  },
+  {
+    "title": "Apocalypse Now",
+    "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1979-08-15T00:00:00.000Z",
+    "runtime": 147,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 90.4,
+    "voteCount": 462000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      {
+        "name": "Martin Sheen",
+        "character": "Captain Willard"
+      },
+      {
+        "name": "Marlon Brando",
+        "character": "Colonel Kurtz"
+      }
+    ]
+  },
+  {
+    "title": "Memento",
+    "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2000-09-05T00:00:00.000Z",
+    "runtime": 113,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 91.3,
+    "voteCount": 489000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Guy Pearce",
+        "character": "Leonard Shelby"
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "character": "Natalie"
+      }
+    ]
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1981-06-12T00:00:00.000Z",
+    "runtime": 115,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 92.2,
+    "voteCount": 516000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      {
+        "name": "Harrison Ford",
+        "character": "Indiana Jones"
+      },
+      {
+        "name": "Karen Allen",
+        "character": "Marion Ravenwood"
+      }
+    ]
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "posterUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-04-27T00:00:00.000Z",
+    "runtime": 149,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 93.1,
+    "voteCount": 543000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "character": "Thor"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Thanos"
+      }
+    ]
+  },
+  {
+    "title": "Princess Mononoke",
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony.",
+    "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1997-07-12T00:00:00.000Z",
+    "runtime": 134,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 8.3,
+    "popularity": 94,
+    "voteCount": 570000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      {
+        "name": "Yoji Matsuda",
+        "character": "Ashitaka (voice)"
+      },
+      {
+        "name": "Yuriko Ishida",
+        "character": "San (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Your Name.",
+    "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "posterUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2016-08-26T00:00:00.000Z",
+    "runtime": 106,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 8.4,
+    "popularity": 94.9,
+    "voteCount": 597000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      {
+        "name": "Ryunosuke Kamiki",
+        "character": "Taki Tachibana (voice)"
+      },
+      {
+        "name": "Mone Kamishiraishi",
+        "character": "Mitsuha Miyamizu (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1968-12-21T00:00:00.000Z",
+    "runtime": 165,
+    "language": "Italian",
+    "country": "Italy",
+    "imdbRating": 8.5,
+    "popularity": 95.8,
+    "voteCount": 624000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Western"
+    ],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "cast": [
+      {
+        "name": "Henry Fonda",
+        "character": "Frank"
+      },
+      {
+        "name": "Charles Bronson",
+        "character": "Harmonica"
+      }
+    ]
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
+    "posterUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1968-04-02T00:00:00.000Z",
+    "runtime": 149,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 8.3,
+    "popularity": 96.7,
+    "voteCount": 651000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      {
+        "name": "Keir Dullea",
+        "character": "Dr. Dave Bowman"
+      },
+      {
+        "name": "Gary Lockwood",
+        "character": "Dr. Frank Poole"
+      }
+    ]
+  },
+  {
+    "title": "Requiem for a Dream",
+    "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "posterUrl": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2000-10-27T00:00:00.000Z",
+    "runtime": 102,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 97.6,
+    "voteCount": 678000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Darren Aronofsky"
+    ],
+    "cast": [
+      {
+        "name": "Ellen Burstyn",
+        "character": "Sara Goldfarb"
+      },
+      {
+        "name": "Jared Leto",
+        "character": "Harry Goldfarb"
+      },
+      {
+        "name": "Jennifer Connelly",
+        "character": "Marion Silver"
+      }
+    ]
+  },
+  {
+    "title": "Taxi Driver",
+    "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "posterUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1976-02-09T00:00:00.000Z",
+    "runtime": 114,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 85,
+    "voteCount": 705000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Travis Bickle"
+      },
+      {
+        "name": "Jodie Foster",
+        "character": "Iris"
+      }
+    ]
+  },
+  {
+    "title": "Full Metal Jacket",
+    "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "posterUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1987-06-26T00:00:00.000Z",
+    "runtime": 116,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 85.9,
+    "voteCount": 732000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      {
+        "name": "Matthew Modine",
+        "character": "Private Joker"
+      },
+      {
+        "name": "R. Lee Ermey",
+        "character": "Gny. Sgt. Hartman"
+      }
+    ]
+  },
+  {
+    "title": "Scarface",
+    "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "posterUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1983-12-09T00:00:00.000Z",
+    "runtime": 170,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 86.8,
+    "voteCount": 759000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Brian De Palma"
+    ],
+    "cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Tony Montana"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "character": "Elvira Hancock"
+      }
+    ]
+  },
+  {
+    "title": "A Clockwork Orange",
+    "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion therapy experiment by the state, but it doesn't go as planned.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1971-12-19T00:00:00.000Z",
+    "runtime": 136,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 8.3,
+    "popularity": 87.7,
+    "voteCount": 786000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      {
+        "name": "Malcolm McDowell",
+        "character": "Alex DeLarge"
+      },
+      {
+        "name": "Patrick Magee",
+        "character": "Mr. Alexander"
+      }
+    ]
+  },
+  {
+    "title": "Gran Torino",
+    "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+    "posterUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2008-12-12T00:00:00.000Z",
+    "runtime": 116,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 88.6,
+    "voteCount": 813000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Clint Eastwood"
+    ],
+    "cast": [
+      {
+        "name": "Clint Eastwood",
+        "character": "Walt Kowalski"
+      },
+      {
+        "name": "Bee Vang",
+        "character": "Thao Vang Lor"
+      }
+    ]
+  },
+  {
+    "title": "L.A. Confidential",
+    "description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1997-09-19T00:00:00.000Z",
+    "runtime": 138,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 89.5,
+    "voteCount": 840000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Curtis Hanson"
+    ],
+    "cast": [
+      {
+        "name": "Kevin Spacey",
+        "character": "Jack Vincennes"
+      },
+      {
+        "name": "Russell Crowe",
+        "character": "Bud White"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Ed Exley"
+      }
+    ]
+  },
+  {
+    "title": "Room",
+    "description": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2015-10-16T00:00:00.000Z",
+    "runtime": 118,
+    "language": "English",
+    "country": "Ireland",
+    "imdbRating": 8.1,
+    "popularity": 90.4,
+    "voteCount": 867000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Lenny Abrahamson"
+    ],
+    "cast": [
+      {
+        "name": "Brie Larson",
+        "character": "Joy Newsome"
+      },
+      {
+        "name": "Jacob Tremblay",
+        "character": "Jack"
+      }
+    ]
+  },
+  {
+    "title": "In the Mood for Love",
+    "description": "Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2000-09-29T00:00:00.000Z",
+    "runtime": 98,
+    "language": "Cantonese",
+    "country": "Hong Kong",
+    "imdbRating": 8.1,
+    "popularity": 91.3,
+    "voteCount": 894000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Wong Kar-wai"
+    ],
+    "cast": [
+      {
+        "name": "Tony Leung Chiu-wai",
+        "character": "Chow Mo-wan"
+      },
+      {
+        "name": "Maggie Cheung",
+        "character": "Su Li-zhen"
+      }
+    ]
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "posterUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1988-04-16T00:00:00.000Z",
+    "runtime": 89,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 8.5,
+    "popularity": 92.2,
+    "voteCount": 921000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      {
+        "name": "Tsutomu Tatsumi",
+        "character": "Seita (voice)"
+      },
+      {
+        "name": "Ayano Shiraishi",
+        "character": "Setsuko (voice)"
+      }
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1966-12-23T00:00:00.000Z",
+    "runtime": 178,
+    "language": "Italian",
+    "country": "Italy",
+    "imdbRating": 8.8,
+    "popularity": 93.1,
+    "voteCount": 948000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "cast": [
+      {
+        "name": "Clint Eastwood",
+        "character": "Blondie"
+      },
+      {
+        "name": "Eli Wallach",
+        "character": "Tuco"
+      },
+      {
+        "name": "Lee Van Cleef",
+        "character": "Sentenza"
+      }
+    ]
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies the scared patients against the tyrannical nurse.",
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1975-11-19T00:00:00.000Z",
+    "runtime": 133,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.7,
+    "popularity": 94,
+    "voteCount": 975000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Milos Forman"
+    ],
+    "cast": [
+      {
+        "name": "Jack Nicholson",
+        "character": "Randle McMurphy"
+      },
+      {
+        "name": "Louise Fletcher",
+        "character": "Nurse Ratched"
+      }
+    ]
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1946-12-20T00:00:00.000Z",
+    "runtime": 130,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "popularity": 94.9,
+    "voteCount": 1002000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "directors": [
+      "Frank Capra"
+    ],
+    "cast": [
+      {
+        "name": "James Stewart",
+        "character": "George Bailey"
+      },
+      {
+        "name": "Donna Reed",
+        "character": "Mary Hatch"
+      }
+    ]
+  },
+  {
+    "title": "Léon: The Professional",
+    "description": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    "posterUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1994-09-14T00:00:00.000Z",
+    "runtime": 110,
+    "language": "French",
+    "country": "France",
+    "imdbRating": 8.5,
+    "popularity": 95.8,
+    "voteCount": 1029000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Luc Besson"
+    ],
+    "cast": [
+      {
+        "name": "Jean Reno",
+        "character": "Léon"
+      },
+      {
+        "name": "Natalie Portman",
+        "character": "Mathilda"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Stansfield"
+      }
+    ]
+  },
+  {
+    "title": "The Pianist",
+    "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2002-09-24T00:00:00.000Z",
+    "runtime": 150,
+    "language": "English",
+    "country": "Poland",
+    "imdbRating": 8.5,
+    "popularity": 96.7,
+    "voteCount": 1056000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music",
+      "War"
+    ],
+    "directors": [
+      "Roman Polanski"
+    ],
+    "cast": [
+      {
+        "name": "Adrien Brody",
+        "character": "Wladyslaw Szpilman"
+      },
+      {
+        "name": "Thomas Kretschmann",
+        "character": "Captain Wilm Hosenfeld"
+      }
+    ]
+  },
+  {
+    "title": "American History X",
+    "description": "Living in Venice, California, a former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "posterUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1998-10-30T00:00:00.000Z",
+    "runtime": 119,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 97.6,
+    "voteCount": 1083000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Tony Kaye"
+    ],
+    "cast": [
+      {
+        "name": "Edward Norton",
+        "character": "Derek Vinyard"
+      },
+      {
+        "name": "Edward Furlong",
+        "character": "Danny Vinyard"
+      }
+    ]
+  },
+  {
+    "title": "The Lion King",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1994-06-24T00:00:00.000Z",
+    "runtime": 88,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 85,
+    "voteCount": 1110000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      {
+        "name": "Matthew Broderick",
+        "character": "Simba (voice)"
+      },
+      {
+        "name": "Jeremy Irons",
+        "character": "Scar (voice)"
+      },
+      {
+        "name": "James Earl Jones",
+        "character": "Mufasa (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader.",
+    "posterUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1980-05-21T00:00:00.000Z",
+    "runtime": 124,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.7,
+    "popularity": 85.9,
+    "voteCount": 1137000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "cast": [
+      {
+        "name": "Mark Hamill",
+        "character": "Luke Skywalker"
+      },
+      {
+        "name": "Harrison Ford",
+        "character": "Han Solo"
+      },
+      {
+        "name": "Carrie Fisher",
+        "character": "Princess Leia"
+      }
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "posterUrl": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2001-12-19T00:00:00.000Z",
+    "runtime": 178,
+    "language": "English",
+    "country": "New Zealand",
+    "imdbRating": 8.8,
+    "popularity": 86.8,
+    "voteCount": 1164000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "cast": [
+      {
+        "name": "Elijah Wood",
+        "character": "Frodo Baggins"
+      },
+      {
+        "name": "Ian McKellen",
+        "character": "Gandalf"
+      },
+      {
+        "name": "Orlando Bloom",
+        "character": "Legolas"
+      }
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "posterUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2002-12-18T00:00:00.000Z",
+    "runtime": 179,
+    "language": "English",
+    "country": "New Zealand",
+    "imdbRating": 8.8,
+    "popularity": 87.7,
+    "voteCount": 1191000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "cast": [
+      {
+        "name": "Elijah Wood",
+        "character": "Frodo Baggins"
+      },
+      {
+        "name": "Ian McKellen",
+        "character": "Gandalf"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "character": "Aragorn"
+      }
+    ]
+  },
+  {
+    "title": "Psycho",
+    "description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "posterUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1960-09-08T00:00:00.000Z",
+    "runtime": 109,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 88.6,
+    "voteCount": 1218000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "cast": [
+      {
+        "name": "Anthony Perkins",
+        "character": "Norman Bates"
+      },
+      {
+        "name": "Janet Leigh",
+        "character": "Marion Crane"
+      }
+    ]
+  },
+  {
+    "title": "Sunset Boulevard",
+    "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "posterUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1950-08-10T00:00:00.000Z",
+    "runtime": 110,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 89.5,
+    "voteCount": 1245000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "cast": [
+      {
+        "name": "William Holden",
+        "character": "Joe Gillis"
+      },
+      {
+        "name": "Gloria Swanson",
+        "character": "Norma Desmond"
+      }
+    ]
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1957-12-17T00:00:00.000Z",
+    "runtime": 116,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 90.4,
+    "voteCount": 1272000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "cast": [
+      {
+        "name": "Tyrone Power",
+        "character": "Leonard Vole"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "character": "Christine Vole"
+      }
+    ]
+  },
+  {
+    "title": "Paths of Glory",
+    "description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "posterUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1957-12-25T00:00:00.000Z",
+    "runtime": 88,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 91.3,
+    "voteCount": 1299000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      {
+        "name": "Kirk Douglas",
+        "character": "Col. Dax"
+      },
+      {
+        "name": "Ralph Meeker",
+        "character": "Cpl. Philippe Paris"
+      }
+    ]
+  },
+  {
+    "title": "The Great Dictator",
+    "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1940-10-15T00:00:00.000Z",
+    "runtime": 125,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 92.2,
+    "voteCount": 1326000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Charlie Chaplin"
+    ],
+    "cast": [
+      {
+        "name": "Charlie Chaplin",
+        "character": "Adenoid Hynkel / The Barber"
+      },
+      {
+        "name": "Paulette Goddard",
+        "character": "Hannah"
+      }
+    ]
+  },
+  {
+    "title": "Modern Times",
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1936-02-05T00:00:00.000Z",
+    "runtime": 87,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 93.1,
+    "voteCount": 1353000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Charlie Chaplin"
+    ],
+    "cast": [
+      {
+        "name": "Charlie Chaplin",
+        "character": "A Factory Worker"
+      },
+      {
+        "name": "Paulette Goddard",
+        "character": "A Gamin"
+      }
+    ]
+  },
+  {
+    "title": "City Lights",
+    "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money in her behalf.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1931-01-30T00:00:00.000Z",
+    "runtime": 87,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.5,
+    "popularity": 94,
+    "voteCount": 1380000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Charlie Chaplin"
+    ],
+    "cast": [
+      {
+        "name": "Charlie Chaplin",
+        "character": "A Tramp"
+      },
+      {
+        "name": "Virginia Cherrill",
+        "character": "A Blind Girl"
+      }
+    ]
+  },
+  {
+    "title": "Avengers: Endgame",
+    "description": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions.",
+    "posterUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-04-26T00:00:00.000Z",
+    "runtime": 181,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 94.9,
+    "voteCount": 1407000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Steve Rogers / Captain America"
+      }
+    ]
+  },
+  {
+    "title": "Joker",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-10-04T00:00:00.000Z",
+    "runtime": 122,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 95.8,
+    "voteCount": 1434000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Todd Phillips"
+    ],
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Arthur Fleck / Joker"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "Murray Franklin"
+      }
+    ]
+  },
+  {
+    "title": "Coco",
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2017-11-22T00:00:00.000Z",
+    "runtime": 105,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 96.7,
+    "voteCount": 1461000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      {
+        "name": "Anthony Gonzalez",
+        "character": "Miguel (voice)"
+      },
+      {
+        "name": "Gael García Bernal",
+        "character": "Héctor (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Toy Story 3",
+    "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned.",
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2010-06-18T00:00:00.000Z",
+    "runtime": 103,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 97.6,
+    "voteCount": 1488000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Woody (voice)"
+      },
+      {
+        "name": "Tim Allen",
+        "character": "Buzz Lightyear (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "posterUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2021-12-17T00:00:00.000Z",
+    "runtime": 148,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 85,
+    "voteCount": 1515000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Jon Watts"
+    ],
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "character": "Peter Parker / Spider-Man"
+      },
+      {
+        "name": "Zendaya",
+        "character": "MJ"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Doctor Strange"
+      }
+    ]
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on an impossible mission.",
+    "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-05-27T00:00:00.000Z",
+    "runtime": 130,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.3,
+    "popularity": 85.9,
+    "voteCount": 1542000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Pete 'Maverick' Mitchell"
+      },
+      {
+        "name": "Miles Teller",
+        "character": "Bradley 'Rooster' Bradshaw"
+      }
+    ]
+  },
+  {
+    "title": "The Batman",
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "posterUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-03-04T00:00:00.000Z",
+    "runtime": 176,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 86.8,
+    "voteCount": 1569000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Matt Reeves"
+    ],
+    "cast": [
+      {
+        "name": "Robert Pattinson",
+        "character": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Zoë Kravitz",
+        "character": "Selina Kyle"
+      },
+      {
+        "name": "Paul Dano",
+        "character": "The Riddler"
+      }
+    ]
+  },
+  {
+    "title": "Guillermo del Toro's Pinocchio",
+    "description": "A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child in a stop-motion musical reimagining.",
+    "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-12-09T00:00:00.000Z",
+    "runtime": 117,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.6,
+    "popularity": 87.7,
+    "voteCount": 1596000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "directors": [
+      "Guillermo del Toro",
+      "Mark Gustafson"
+    ],
+    "cast": [
+      {
+        "name": "Gregory Mann",
+        "character": "Pinocchio (voice)"
+      },
+      {
+        "name": "Ewan McGregor",
+        "character": "Sebastian J. Cricket (voice)"
+      }
+    ]
+  },
+  {
+    "title": "Ford v Ferrari",
+    "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in the 1966 24 Hours of Le Mans.",
+    "posterUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-11-15T00:00:00.000Z",
+    "runtime": 152,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 88.6,
+    "voteCount": 1623000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "James Mangold"
+    ],
+    "cast": [
+      {
+        "name": "Matt Damon",
+        "character": "Carroll Shelby"
+      },
+      {
+        "name": "Christian Bale",
+        "character": "Ken Miles"
+      }
+    ]
+  },
+  {
+    "title": "Incendies",
+    "description": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "posterUrl": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2010-09-17T00:00:00.000Z",
+    "runtime": 131,
+    "language": "French",
+    "country": "Canada",
+    "imdbRating": 8.3,
+    "popularity": 89.5,
+    "voteCount": 1650000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      {
+        "name": "Lubna Azabal",
+        "character": "Nawal Marwan"
+      },
+      {
+        "name": "Mélissa Désormeaux-Poulin",
+        "character": "Jeanne Marwan"
+      }
+    ]
+  },
+  {
+    "title": "Arrival",
+    "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+    "posterUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2016-11-11T00:00:00.000Z",
+    "runtime": 116,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.9,
+    "popularity": 90.4,
+    "voteCount": 1677000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      {
+        "name": "Amy Adams",
+        "character": "Louise Banks"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Ian Donnelly"
+      }
+    ]
+  },
+  {
+    "title": "Prisoners",
+    "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "posterUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2013-09-20T00:00:00.000Z",
+    "runtime": 153,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 91.3,
+    "voteCount": 1704000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      {
+        "name": "Hugh Jackman",
+        "character": "Keller Dover"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "character": "Detective Loki"
+      }
+    ]
+  },
+  {
+    "title": "Sicario",
+    "description": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+    "posterUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2015-10-02T00:00:00.000Z",
+    "runtime": 121,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.7,
+    "popularity": 92.2,
+    "voteCount": 1731000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      {
+        "name": "Emily Blunt",
+        "character": "Kate Macer"
+      },
+      {
+        "name": "Benicio Del Toro",
+        "character": "Alejandro"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Matt Graver"
+      }
+    ]
+  },
+  {
+    "title": "Nightcrawler",
+    "description": "When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2014-10-31T00:00:00.000Z",
+    "runtime": 117,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 93.1,
+    "voteCount": 1758000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Dan Gilroy"
+    ],
+    "cast": [
+      {
+        "name": "Jake Gyllenhaal",
+        "character": "Lou Bloom"
+      },
+      {
+        "name": "Rene Russo",
+        "character": "Nina Romina"
+      }
+    ]
+  },
+  {
+    "title": "La La Land",
+    "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "posterUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2016-12-09T00:00:00.000Z",
+    "runtime": 128,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8,
+    "popularity": 94,
+    "voteCount": 1785000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Sebastian"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Mia"
+      }
+    ]
+  },
+  {
+    "title": "Babylon",
+    "description": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-12-23T00:00:00.000Z",
+    "runtime": 189,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.2,
+    "popularity": 94.9,
+    "voteCount": 1812000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Jack Conrad"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Nellie LaRoy"
+      },
+      {
+        "name": "Diego Calva",
+        "character": "Manny Torres"
+      }
+    ]
+  },
+  {
+    "title": "First Man",
+    "description": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-10-12T00:00:00.000Z",
+    "runtime": 141,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.3,
+    "popularity": 95.8,
+    "voteCount": 1839000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Neil Armstrong"
+      },
+      {
+        "name": "Claire Foy",
+        "character": "Janet Armstrong"
+      }
+    ]
+  },
+  {
+    "title": "The Social Network",
+    "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2010-10-01T00:00:00.000Z",
+    "runtime": 120,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 96.7,
+    "voteCount": 1866000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      {
+        "name": "Jesse Eisenberg",
+        "character": "Mark Zuckerberg"
+      },
+      {
+        "name": "Andrew Garfield",
+        "character": "Eduardo Saverin"
+      },
+      {
+        "name": "Justin Timberlake",
+        "character": "Sean Parker"
+      }
+    ]
+  },
+  {
+    "title": "Zodiac",
+    "description": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California.",
+    "posterUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2007-03-02T00:00:00.000Z",
+    "runtime": 157,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.7,
+    "popularity": 97.6,
+    "voteCount": 1893000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      {
+        "name": "Jake Gyllenhaal",
+        "character": "Robert Graysmith"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Inspector Dave Toschi"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Paul Avery"
+      }
+    ]
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "description": "Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2008-12-25T00:00:00.000Z",
+    "runtime": 166,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 85,
+    "voteCount": 1920000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Benjamin Button"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Daisy"
+      }
+    ]
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "description": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker.",
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2011-12-21T00:00:00.000Z",
+    "runtime": 158,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 85.9,
+    "voteCount": 1947000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      {
+        "name": "Daniel Craig",
+        "character": "Mikael Blomkvist"
+      },
+      {
+        "name": "Rooney Mara",
+        "character": "Lisbeth Salander"
+      }
+    ]
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-10-20T00:00:00.000Z",
+    "runtime": 206,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.6,
+    "popularity": 86.8,
+    "voteCount": 1974000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Ernest Burkhart"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "William Hale"
+      },
+      {
+        "name": "Lily Gladstone",
+        "character": "Mollie Burkhart"
+      }
+    ]
+  },
+  {
+    "title": "The Irishman",
+    "description": "Hitman Frank Sheeran looks back at the secrets he kept as a loyal member of the Bufalino crime family in this acclaimed crime drama.",
+    "posterUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-11-27T00:00:00.000Z",
+    "runtime": 209,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 87.7,
+    "voteCount": 2001000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Frank Sheeran"
+      },
+      {
+        "name": "Al Pacino",
+        "character": "Jimmy Hoffa"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Russell Bufalino"
+      }
+    ]
+  },
+  {
+    "title": "Casino",
+    "description": "In early-1970s Las Vegas, low-level mobster Sam 'Ace' Rothstein is called by his bosses to head the Tangiers Casino, while his psychotic friend Nicky Santoro is sent to protect him.",
+    "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1995-11-22T00:00:00.000Z",
+    "runtime": 178,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 88.6,
+    "voteCount": 2028000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Sam 'Ace' Rothstein"
+      },
+      {
+        "name": "Sharon Stone",
+        "character": "Ginger McKenna"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Nicky Santoro"
+      }
+    ]
+  },
+  {
+    "title": "Raging Bull",
+    "description": "The life of boxer Jake LaMotta, whose violence and temper that lead him to the top in the ring destroyed his life outside of it.",
+    "posterUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "1980-12-19T00:00:00.000Z",
+    "runtime": 129,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 89.5,
+    "voteCount": 2055000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Jake LaMotta"
+      },
+      {
+        "name": "Cathy Moriarty",
+        "character": "Vickie LaMotta"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Joey LaMotta"
+      }
+    ]
+  },
+  {
+    "title": "Dunkirk",
+    "description": "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+    "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2017-07-21T00:00:00.000Z",
+    "runtime": 106,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 90.4,
+    "voteCount": 2082000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Fionn Whitehead",
+        "character": "Tommy"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Farrier"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "Mr. Dawson"
+      }
+    ]
+  },
+  {
+    "title": "Tenet",
+    "description": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "posterUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2020-09-03T00:00:00.000Z",
+    "runtime": 150,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.3,
+    "popularity": 91.3,
+    "voteCount": 2109000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "John David Washington",
+        "character": "Protagonist"
+      },
+      {
+        "name": "Robert Pattinson",
+        "character": "Neil"
+      },
+      {
+        "name": "Elizabeth Debicki",
+        "character": "Kat"
+      }
+    ]
+  },
+  {
+    "title": "Batman Begins",
+    "description": "After witnessing his parents' death, Bruce Wayne learns the art of fighting from a ninja organization and uses it to fight crime in Gotham City as Batman.",
+    "posterUrl": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2005-06-15T00:00:00.000Z",
+    "runtime": 140,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "popularity": 92.2,
+    "voteCount": 2136000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Alfred"
+      },
+      {
+        "name": "Liam Neeson",
+        "character": "Henri Ducard"
+      }
+    ]
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Selina Kyle, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "posterUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2012-07-20T00:00:00.000Z",
+    "runtime": 164,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.4,
+    "popularity": 93.1,
+    "voteCount": 2163000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Bane"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Selina Kyle"
+      }
+    ]
+  },
+  {
+    "title": "Hereditary",
+    "description": "A grieving family is haunted by tragic and disturbing occurrences after the death of their secretive grandmother.",
+    "posterUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-06-08T00:00:00.000Z",
+    "runtime": 127,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.3,
+    "popularity": 94,
+    "voteCount": 2190000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Ari Aster"
+    ],
+    "cast": [
+      {
+        "name": "Toni Collette",
+        "character": "Annie Graham"
+      },
+      {
+        "name": "Alex Wolff",
+        "character": "Peter Graham"
+      }
+    ]
+  },
+  {
+    "title": "Midsommar",
+    "description": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+    "posterUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-07-03T00:00:00.000Z",
+    "runtime": 148,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.1,
+    "popularity": 94.9,
+    "voteCount": 2217000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Ari Aster"
+    ],
+    "cast": [
+      {
+        "name": "Florence Pugh",
+        "character": "Dani"
+      },
+      {
+        "name": "Jack Reynor",
+        "character": "Christian"
+      },
+      {
+        "name": "William Jackson Harper",
+        "character": "Josh"
+      }
+    ]
+  },
+  {
+    "title": "Get Out",
+    "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2017-02-24T00:00:00.000Z",
+    "runtime": 104,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 95.8,
+    "voteCount": 2244000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Jordan Peele"
+    ],
+    "cast": [
+      {
+        "name": "Daniel Kaluuya",
+        "character": "Chris Washington"
+      },
+      {
+        "name": "Allison Williams",
+        "character": "Rose Armitage"
+      }
+    ]
+  },
+  {
+    "title": "Us",
+    "description": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+    "posterUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-03-22T00:00:00.000Z",
+    "runtime": 116,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.8,
+    "popularity": 96.7,
+    "voteCount": 2271000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Jordan Peele"
+    ],
+    "cast": [
+      {
+        "name": "Lupita Nyong'o",
+        "character": "Adelaide Wilson / Red"
+      },
+      {
+        "name": "Winston Duke",
+        "character": "Gabe Wilson / Abraham"
+      }
+    ]
+  },
+  {
+    "title": "Nope",
+    "description": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-07-22T00:00:00.000Z",
+    "runtime": 130,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.8,
+    "popularity": 97.6,
+    "voteCount": 2298000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Jordan Peele"
+    ],
+    "cast": [
+      {
+        "name": "Daniel Kaluuya",
+        "character": "OJ Haywood"
+      },
+      {
+        "name": "Keke Palmer",
+        "character": "Emerald Haywood"
+      }
+    ]
+  },
+  {
+    "title": "The Witch",
+    "description": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2016-02-19T00:00:00.000Z",
+    "runtime": 92,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7,
+    "popularity": 85,
+    "voteCount": 2325000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Robert Eggers"
+    ],
+    "cast": [
+      {
+        "name": "Anya Taylor-Joy",
+        "character": "Thomasin"
+      },
+      {
+        "name": "Ralph Ineson",
+        "character": "William"
+      }
+    ]
+  },
+  {
+    "title": "The Lighthouse",
+    "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-10-18T00:00:00.000Z",
+    "runtime": 109,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.4,
+    "popularity": 85.9,
+    "voteCount": 2352000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "directors": [
+      "Robert Eggers"
+    ],
+    "cast": [
+      {
+        "name": "Willem Dafoe",
+        "character": "Thomas Wake"
+      },
+      {
+        "name": "Robert Pattinson",
+        "character": "Ephraim Winslow"
+      }
+    ]
+  },
+  {
+    "title": "The Northman",
+    "description": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+    "posterUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-04-22T00:00:00.000Z",
+    "runtime": 137,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7,
+    "popularity": 86.8,
+    "voteCount": 2379000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Robert Eggers"
+    ],
+    "cast": [
+      {
+        "name": "Alexander Skarsgård",
+        "character": "Amleth"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Queen Gudrún"
+      },
+      {
+        "name": "Anya Taylor-Joy",
+        "character": "Olga"
+      }
+    ]
+  },
+  {
+    "title": "Ex Machina",
+    "description": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2015-01-21T00:00:00.000Z",
+    "runtime": 108,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 7.7,
+    "popularity": 87.7,
+    "voteCount": 2406000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Alex Garland"
+    ],
+    "cast": [
+      {
+        "name": "Domhnall Gleeson",
+        "character": "Caleb"
+      },
+      {
+        "name": "Alicia Vikander",
+        "character": "Ava"
+      },
+      {
+        "name": "Oscar Isaac",
+        "character": "Nathan"
+      }
+    ]
+  },
+  {
+    "title": "Annihilation",
+    "description": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-02-23T00:00:00.000Z",
+    "runtime": 115,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.8,
+    "popularity": 88.6,
+    "voteCount": 2433000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Alex Garland"
+    ],
+    "cast": [
+      {
+        "name": "Natalie Portman",
+        "character": "Lena"
+      },
+      {
+        "name": "Jennifer Jason Leigh",
+        "character": "Dr. Ventress"
+      },
+      {
+        "name": "Tessa Thompson",
+        "character": "Josie Radek"
+      }
+    ]
+  },
+  {
+    "title": "Civil War",
+    "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2024-04-12T00:00:00.000Z",
+    "runtime": 109,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.1,
+    "popularity": 89.5,
+    "voteCount": 2460000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Alex Garland"
+    ],
+    "cast": [
+      {
+        "name": "Kirsten Dunst",
+        "character": "Lee Smith"
+      },
+      {
+        "name": "Wagner Moura",
+        "character": "Joel"
+      },
+      {
+        "name": "Cailee Spaeny",
+        "character": "Jessie"
+      }
+    ]
+  },
+  {
+    "title": "Past Lives",
+    "description": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Decades later, they are reunited for one fateful week.",
+    "posterUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-06-02T00:00:00.000Z",
+    "runtime": 105,
+    "language": "Korean",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 90.4,
+    "voteCount": 2487000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Celine Song"
+    ],
+    "cast": [
+      {
+        "name": "Greta Lee",
+        "character": "Nora"
+      },
+      {
+        "name": "Teo Yoo",
+        "character": "Hae Sung"
+      },
+      {
+        "name": "John Magaro",
+        "character": "Arthur"
+      }
+    ]
+  },
+  {
+    "title": "Poor Things",
+    "description": "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+    "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-12-08T00:00:00.000Z",
+    "runtime": 141,
+    "language": "English",
+    "country": "Ireland",
+    "imdbRating": 7.9,
+    "popularity": 91.3,
+    "voteCount": 2514000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Yorgos Lanthimos"
+    ],
+    "cast": [
+      {
+        "name": "Emma Stone",
+        "character": "Bella Baxter"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Duncan Wedderburn"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Dr. Godwin Baxter"
+      }
+    ]
+  },
+  {
+    "title": "The Favourite",
+    "description": "In early 18th-century England, the frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead while Sarah's cousin Abigail arrives seeking employment.",
+    "posterUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-11-23T00:00:00.000Z",
+    "runtime": 119,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 7.5,
+    "popularity": 92.2,
+    "voteCount": 2541000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Yorgos Lanthimos"
+    ],
+    "cast": [
+      {
+        "name": "Olivia Colman",
+        "character": "Queen Anne"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Abigail"
+      },
+      {
+        "name": "Rachel Weisz",
+        "character": "Lady Sarah"
+      }
+    ]
+  },
+  {
+    "title": "The Lobster",
+    "description": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or be transformed into beasts and sent off into The Woods.",
+    "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2015-10-16T00:00:00.000Z",
+    "runtime": 119,
+    "language": "English",
+    "country": "Ireland",
+    "imdbRating": 7.1,
+    "popularity": 93.1,
+    "voteCount": 2568000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Yorgos Lanthimos"
+    ],
+    "cast": [
+      {
+        "name": "Colin Farrell",
+        "character": "David"
+      },
+      {
+        "name": "Rachel Weisz",
+        "character": "Short Sighted Woman"
+      }
+    ]
+  },
+  {
+    "title": "The Banshees of Inisherin",
+    "description": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+    "posterUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-10-21T00:00:00.000Z",
+    "runtime": 114,
+    "language": "English",
+    "country": "Ireland",
+    "imdbRating": 7.7,
+    "popularity": 94,
+    "voteCount": 2595000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Martin McDonagh"
+    ],
+    "cast": [
+      {
+        "name": "Colin Farrell",
+        "character": "Pádraic Súilleabháin"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Colm Doherty"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Siobhán Súilleabháin"
+      }
+    ]
+  },
+  {
+    "title": "In Bruges",
+    "description": "Guilt-stricken after a job gone wrong, hitman Ray and his partner Ken await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.",
+    "posterUrl": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2008-02-08T00:00:00.000Z",
+    "runtime": 107,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 7.9,
+    "popularity": 94.9,
+    "voteCount": 2622000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin McDonagh"
+    ],
+    "cast": [
+      {
+        "name": "Colin Farrell",
+        "character": "Ray"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Ken"
+      },
+      {
+        "name": "Ralph Fiennes",
+        "character": "Harry"
+      }
+    ]
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "posterUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2017-12-01T00:00:00.000Z",
+    "runtime": 115,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.1,
+    "popularity": 95.8,
+    "voteCount": 2649000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin McDonagh"
+    ],
+    "cast": [
+      {
+        "name": "Frances McDormand",
+        "character": "Mildred Hayes"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Chief Willoughby"
+      },
+      {
+        "name": "Sam Rockwell",
+        "character": "Officer Dixon"
+      }
+    ]
+  },
+  {
+    "title": "Lady Bird",
+    "description": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
+    "posterUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2017-11-03T00:00:00.000Z",
+    "runtime": 94,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.4,
+    "popularity": 96.7,
+    "voteCount": 2676000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Greta Gerwig"
+    ],
+    "cast": [
+      {
+        "name": "Saoirse Ronan",
+        "character": "Christine 'Lady Bird' McPherson"
+      },
+      {
+        "name": "Laurie Metcalf",
+        "character": "Marion McPherson"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Kyle Scheible"
+      }
+    ]
+  },
+  {
+    "title": "Little Women",
+    "description": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.",
+    "posterUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2019-12-25T00:00:00.000Z",
+    "runtime": 135,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "popularity": 97.6,
+    "voteCount": 2703000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Greta Gerwig"
+    ],
+    "cast": [
+      {
+        "name": "Saoirse Ronan",
+        "character": "Jo March"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Meg March"
+      },
+      {
+        "name": "Florence Pugh",
+        "character": "Amy March"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Theodore 'Laurie' Laurence"
+      }
+    ]
+  },
+  {
+    "title": "Memories of Murder",
+    "description": "In 1986, in the province of Gyunggi, in South Korea, a second young and beautiful woman is found dead, raped and tied and gagged with her underwear. Two local detectives, lacking the modern techniques, investigate.",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2003-05-02T00:00:00.000Z",
+    "runtime": 132,
+    "language": "Korean",
+    "country": "South Korea",
+    "imdbRating": 8.1,
+    "popularity": 85,
+    "voteCount": 2730000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Bong Joon-ho"
+    ],
+    "cast": [
+      {
+        "name": "Song Kang-ho",
+        "character": "Park Doo-man"
+      },
+      {
+        "name": "Kim Sang-kyung",
+        "character": "Seo Tae-yoon"
+      }
+    ]
+  },
+  {
+    "title": "Snowpiercer",
+    "description": "In a future where a failed climate-change experiment has killed all life except for the lucky few who boarded the Snowpiercer, a new class system emerges on the train.",
+    "posterUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2013-08-01T00:00:00.000Z",
+    "runtime": 126,
+    "language": "English",
+    "country": "South Korea",
+    "imdbRating": 7.1,
+    "popularity": 85.9,
+    "voteCount": 2757000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Bong Joon-ho"
+    ],
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "character": "Curtis"
+      },
+      {
+        "name": "Song Kang-ho",
+        "character": "Namgoong Minsu"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "Mason"
+      }
+    ]
+  },
+  {
+    "title": "The Host",
+    "description": "A monster emerges from Seoul's Han River and begins attacking people. One victim's loving family does what it can to rescue her from its clutches.",
+    "posterUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2006-07-27T00:00:00.000Z",
+    "runtime": 120,
+    "language": "Korean",
+    "country": "South Korea",
+    "imdbRating": 7.1,
+    "popularity": 86.8,
+    "voteCount": 2784000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Bong Joon-ho"
+    ],
+    "cast": [
+      {
+        "name": "Song Kang-ho",
+        "character": "Park Gang-du"
+      },
+      {
+        "name": "Byun Hee-bong",
+        "character": "Park Hee-bong"
+      }
+    ]
+  },
+  {
+    "title": "The Handmaiden",
+    "description": "A woman is hired as a handmaiden to an eccentric Japanese heiress, but secretly she is involved in a plot to defraud her.",
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2016-06-01T00:00:00.000Z",
+    "runtime": 145,
+    "language": "Korean",
+    "country": "South Korea",
+    "imdbRating": 8.1,
+    "popularity": 87.7,
+    "voteCount": 2811000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "directors": [
+      "Park Chan-wook"
+    ],
+    "cast": [
+      {
+        "name": "Kim Min-hee",
+        "character": "Lady Hideko"
+      },
+      {
+        "name": "Kim Tae-ri",
+        "character": "Sook-hee"
+      },
+      {
+        "name": "Ha Jung-woo",
+        "character": "Count Fujiwara"
+      }
+    ]
+  },
+  {
+    "title": "Decision to Leave",
+    "description": "A man falls from a mountain peak to his death. The detective in charge, Hae-joon, comes to meet the dead man's wife, Seo-rae. When she becomes a suspect, Hae-joon finds himself developing an attraction for her.",
+    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2022-06-29T00:00:00.000Z",
+    "runtime": 138,
+    "language": "Korean",
+    "country": "South Korea",
+    "imdbRating": 7.3,
+    "popularity": 88.6,
+    "voteCount": 2838000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "directors": [
+      "Park Chan-wook"
+    ],
+    "cast": [
+      {
+        "name": "Tang Wei",
+        "character": "Song Seo-rae"
+      },
+      {
+        "name": "Park Hae-il",
+        "character": "Jang Hae-joon"
+      }
+    ]
+  },
+  {
+    "title": "Drive My Car",
+    "description": "A renowned stage actor and director, grieving his wife's sudden death, receives an offer to direct Uncle Vanya at a theater festival in Hiroshima. There, he meets Misaki, a taciturn young woman appointed to be his chauffeur.",
+    "posterUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2021-08-20T00:00:00.000Z",
+    "runtime": 179,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 7.6,
+    "popularity": 89.5,
+    "voteCount": 2865000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Ryusuke Hamaguchi"
+    ],
+    "cast": [
+      {
+        "name": "Hidetoshi Nishijima",
+        "character": "Yusuke Kafuku"
+      },
+      {
+        "name": "Toko Miura",
+        "character": "Misaki Watari"
+      }
+    ]
+  },
+  {
+    "title": "Monster",
+    "description": "When her young son Minato starts to behave strangely, his mother feels that there is something wrong. Discovering that a teacher is responsible, she storms into the school demanding to know what's going on.",
+    "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-06-02T00:00:00.000Z",
+    "runtime": 126,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 7.9,
+    "popularity": 90.4,
+    "voteCount": 2892000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Hirokazu Kore-eda"
+    ],
+    "cast": [
+      {
+        "name": "Sakura Ando",
+        "character": "Saori Mugino"
+      },
+      {
+        "name": "Eita Nagayama",
+        "character": "Michitoshi Hori"
+      }
+    ]
+  },
+  {
+    "title": "Shoplifters",
+    "description": "A family of small-time crooks take in a child they find out on the cold streets.",
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-06-08T00:00:00.000Z",
+    "runtime": 121,
+    "language": "Japanese",
+    "country": "Japan",
+    "imdbRating": 7.9,
+    "popularity": 91.3,
+    "voteCount": 2919000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Hirokazu Kore-eda"
+    ],
+    "cast": [
+      {
+        "name": "Lily Franky",
+        "character": "Osamu Shibata"
+      },
+      {
+        "name": "Sakura Ando",
+        "character": "Nobuyo Shibata"
+      },
+      {
+        "name": "Mayu Matsuoka",
+        "character": "Aki Shibata"
+      }
+    ]
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "description": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the main witness.",
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-08-23T00:00:00.000Z",
+    "runtime": 151,
+    "language": "French",
+    "country": "France",
+    "imdbRating": 7.7,
+    "popularity": 92.2,
+    "voteCount": 2946000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Justine Triet"
+    ],
+    "cast": [
+      {
+        "name": "Sandra Hüller",
+        "character": "Sandra Voyter"
+      },
+      {
+        "name": "Swann Arlaud",
+        "character": "Vincent Renzi"
+      },
+      {
+        "name": "Milo Machado Graner",
+        "character": "Daniel Maleski"
+      }
+    ]
+  },
+  {
+    "title": "The Zone of Interest",
+    "description": "Auschwitz commandant Rudolf Höss and his wife Hedwig strive to build a dream life for their family in a house and garden beside the camp.",
+    "posterUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2023-12-15T00:00:00.000Z",
+    "runtime": 105,
+    "language": "German",
+    "country": "United Kingdom",
+    "imdbRating": 7.4,
+    "popularity": 93.1,
+    "voteCount": 2973000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "directors": [
+      "Jonathan Glazer"
+    ],
+    "cast": [
+      {
+        "name": "Christian Friedel",
+        "character": "Rudolf Höss"
+      },
+      {
+        "name": "Sandra Hüller",
+        "character": "Hedwig Höss"
+      }
+    ]
+  },
+  {
+    "title": "Roma",
+    "description": "A year in the life of a middle-class family's maid in Mexico City in the early 1970s.",
+    "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2018-11-21T00:00:00.000Z",
+    "runtime": 135,
+    "language": "Spanish",
+    "country": "Mexico",
+    "imdbRating": 7.7,
+    "popularity": 94,
+    "voteCount": 3000000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Alfonso Cuarón"
+    ],
+    "cast": [
+      {
+        "name": "Yalitza Aparicio",
+        "character": "Cleo"
+      },
+      {
+        "name": "Marina de Tavira",
+        "character": "Sofía"
+      }
+    ]
+  },
+  {
+    "title": "Children of Men",
+    "description": "In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
+    "posterUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2006-09-22T00:00:00.000Z",
+    "runtime": 109,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 7.9,
+    "popularity": 94.9,
+    "voteCount": 3027000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfonso Cuarón"
+    ],
+    "cast": [
+      {
+        "name": "Clive Owen",
+        "character": "Theo Faron"
+      },
+      {
+        "name": "Julianne Moore",
+        "character": "Julian Taylor"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "character": "Luke"
+      }
+    ]
+  },
+  {
+    "title": "Gravity",
+    "description": "Two astronauts work together to survive after an accident leaves them stranded in space.",
+    "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2013-10-04T00:00:00.000Z",
+    "runtime": 91,
+    "language": "English",
+    "country": "United Kingdom",
+    "imdbRating": 7.7,
+    "popularity": 95.8,
+    "voteCount": 3054000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfonso Cuarón"
+    ],
+    "cast": [
+      {
+        "name": "Sandra Bullock",
+        "character": "Dr. Ryan Stone"
+      },
+      {
+        "name": "George Clooney",
+        "character": "Matt Kowalski"
+      }
+    ]
+  },
+  {
+    "title": "Birdman",
+    "description": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",
+    "posterUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2014-11-14T00:00:00.000Z",
+    "runtime": 119,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.7,
+    "popularity": 96.7,
+    "voteCount": 3081000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Alejandro G. Iñárritu"
+    ],
+    "cast": [
+      {
+        "name": "Michael Keaton",
+        "character": "Riggan Thomson"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "Mike Shiner"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Sam Thomson"
+      }
+    ]
+  },
+  {
+    "title": "The Revenant",
+    "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+    "posterUrl": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&auto=format&fit=crop&q=80",
+    "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2016-01-08T00:00:00.000Z",
+    "runtime": 156,
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8,
+    "popularity": 97.6,
+    "voteCount": 3108000,
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "directors": [
+      "Alejandro G. Iñárritu"
+    ],
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Hugh Glass"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "John Fitzgerald"
+      },
+      {
+        "name": "Will Poulter",
+        "character": "Bridger"
+      }
+    ]
+  }
+]
